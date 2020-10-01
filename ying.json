@@ -1,0 +1,1316 @@
+{
+  "list_mx": [
+    {
+      "key": "zuidaziyuanwang",
+      "name": "最大资源网",
+      "score": 3,
+      "cmsUrl": "http://www.zdziyuan.com/inc/api.php",
+      "version": "2020.05.28",
+      "flags": [
+        {
+          "key": "zuidam3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "zuidall",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "okziyuanwang",
+      "name": "OK资源网",
+      "score": 3,
+      "cmsUrl": "https://cj.okzy.tv/inc/api1s_subname.php",
+      "version": "2020.05.28",
+      "flags": [
+        {
+          "key": "ckm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "kuyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "mahuaziyuanwang",
+      "name": "麻花资源网",
+      "score": 3,
+      "cmsUrl": "https://www.mhapi123.com/inc/api_all.php",
+      "version": "2020.05.28",
+      "flags": [
+        {
+          "key": "mahua",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "kuyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "123ziyuanwang",
+      "name": "123资源网",
+      "score": 5,
+      "cmsUrl": "http://www.123ku.com/inc/api.php",
+      "version": "2020.05.28",
+      "flags": [
+        {
+          "key": "123kum3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "123kuyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "kuboziyuanwang",
+      "name": "酷播资源网",
+      "score": 4,
+      "cmsUrl": "http://api.kbzyapi.com/inc/api.php",
+      "version": "2020.05.28",
+      "flags": [
+        {
+          "key": "kakam3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "kuyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "caijiziyuanwang",
+      "name": "采集资源网",
+      "score": 3,
+      "cmsUrl": "https://www.caijizy.vip/api.php/provide/vod/at/xml/",
+      "version": "2020.05.28",
+      "flags": [
+        {
+          "key": "jsm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "jsyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "niuniuziyuanwang",
+      "name": "牛牛资源网",
+      "score": 3,
+      "cmsUrl": "http://v.niuniucj.com/inc/api.php",
+      "version": "2020.05.28",
+      "flags": [
+        {
+          "key": "nnm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "nnyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "zuixinziyuanwang",
+      "name": "最新资源网",
+      "score": 3,
+      "cmsUrl": "http://api.zuixinapi.com/inc/api.php",
+      "version": "2020.05.29",
+      "flags": [
+        {
+          "key": "xinm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "xinyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "209ziyuanwang",
+      "name": "209资源网",
+      "score": 5,
+      "cmsUrl": "http://cj.1156zy.com/inc/api.php",
+      "version": "2020.05.29",
+      "flags": [
+        {
+          "key": "33uuck",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "33uu",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "135ziyuanwang",
+      "name": "135资源网",
+      "score": 3,
+      "cmsUrl": "http://cj.zycjw1.com/inc/api.php",
+      "version": "2020.05.29",
+      "flags": [
+        {
+          "key": "135m3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "135zy",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "miaoboziyuanwang",
+      "name": "秒播资源网",
+      "score": 3,
+      "cmsUrl": "http://caiji.mb77.vip/inc/api.php",
+      "version": "2020.05.29",
+      "flags": [
+        {
+          "key": "mbckm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "mbyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "kuyunziyuanwang",
+      "name": "酷云资源网",
+      "score": 4,
+      "cmsUrl": "http://caiji.kuyun98.com/inc/ldg_api.php",
+      "version": "2020.05.29",
+      "flags": [
+        {
+          "key": "kkm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "kkyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "605ziyuanwang",
+      "name": "605资源网",
+      "score": 3,
+      "cmsUrl": "http://www.605zy.co/inc/api.php",
+      "version": "2020.05.29",
+      "flags": [
+        {
+          "key": "605m3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "605yun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "1886ziyuanwang",
+      "name": "1886资源网",
+      "score": 3,
+      "cmsUrl": "http://cj.1886zy.co/inc/api.php",
+      "version": "2020.05.29",
+      "flags": [
+        {
+          "key": "zkm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "zkyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "doubanziyuanwang",
+      "name": "豆瓣资源网",
+      "score": 3,
+      "cmsUrl": "http://v.1988cj.com/inc/api.php",
+      "version": "2020.05.29",
+      "flags": [
+        {
+          "key": "dbm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "dbyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "suboziyuanwang",
+      "name": "速播资源网",
+      "score": 3,
+      "cmsUrl": "https://www.subo988.com/inc/api.php",
+      "version": "2020.05.29",
+      "flags": [
+        {
+          "key": "subom3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "suboyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "yongjiuziyuanwang",
+      "name": "永久资源网",
+      "score": 3,
+      "cmsUrl": "http://cj.yongjiuzyw.com/inc/api.php",
+      "version": "2020.05.29",
+      "flags": [
+        {
+          "key": "yjm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "yjyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "yiwubaziyuanwang",
+      "name": "壹伍捌资源网",
+      "score": 3,
+      "cmsUrl": "http://cj.158zyz.net:158/inc/api.php",
+      "version": "2020.05.29",
+      "flags": [
+        {
+          "key": "158m3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "158yun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "kankanziyuanwang",
+      "name": "看看资源网",
+      "score": 3,
+      "cmsUrl": "http://v.bbtsv.com/inc/api.php",
+      "version": "2020.05.29",
+      "flags": [
+        {
+          "key": "131m3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "131zy",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "jikuaiziyuanwang",
+      "name": "极快资源网",
+      "score": 2,
+      "cmsUrl": "https://www.jikzy.com/inc/api.php",
+      "version": "2020.06.08",
+      "flags": [
+        {
+          "key": "jsm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "jsyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "mokaziyuanwang",
+      "name": "摩卡资源网",
+      "score": 3,
+      "cmsUrl": "https://cj.heiyap.com/api.php/provide/vod/at/xml/",
+      "version": "2020.06.08",
+      "flags": [
+        {
+          "key": "mkm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "mkyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "xiaoxiaoziyuanwang",
+      "name": "小小资源网",
+      "score": 5,
+      "cmsUrl": "http://zy.88jiexi.com/api.php/provide/vod/at/xml/",
+      "version": "2020.06.04",
+      "flags": [
+        {
+          "key": "qiyi",
+          "name": "奇艺",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "mgtv",
+          "name": "芒果",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "pptv",
+          "name": "PPTV",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "youku",
+          "name": "优酷",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "letv",
+          "name": "LETV",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "qq",
+          "name": "腾讯",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "sohu",
+          "name": "搜狐",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        }
+      ]
+    },
+    {
+      "key": "mingriziyuanwang",
+      "name": "明日资源网",
+      "score": 5,
+      "cmsUrl": "http://zy.zcocc.com/api.php/provide/vod/at/xml/",
+      "version": "2020.06.09",
+      "flags": [
+        {
+          "key": "qiyi",
+          "name": "奇艺",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "mgtv",
+          "name": "芒果",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "pptv",
+          "name": "PPTV",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "youku",
+          "name": "优酷",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "letv",
+          "name": "LETV",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "qq",
+          "name": "腾讯",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "sohu",
+          "name": "搜狐",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        }
+      ]
+    },
+    {
+      "key": "8090ziyuanwang",
+      "name": "8090资源网",
+      "score": 5,
+      "cmsUrl": "http://zy.yilans.net/api.php/provide/vod/at/xml/",
+      "version": "2020.06.09",
+      "flags": [
+        {
+          "key": "qiyi",
+          "name": "奇艺",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "mgtv",
+          "name": "芒果",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "pptv",
+          "name": "PPTV",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "youku",
+          "name": "优酷",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "letv",
+          "name": "LETV",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "qq",
+          "name": "腾讯",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "sohu",
+          "name": "搜狐",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        }
+      ]
+    },
+    {
+      "key": "anyeziyuanwang",
+      "name": "暗夜资源网",
+      "score": 5,
+      "cmsUrl": "https://vip.aywlkj.xyz/api.php/provide/vod/at/xml/",
+      "version": "2020.06.09",
+      "flags": [
+        {
+          "key": "qiyi",
+          "name": "奇艺",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "mgtv",
+          "name": "芒果",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "pptv",
+          "name": "PPTV",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "youku",
+          "name": "优酷",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "letv",
+          "name": "LETV",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "qq",
+          "name": "腾讯",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "sohu",
+          "name": "搜狐",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        }
+      ]
+    },
+    {
+      "key": "huayuanziyuanwang",
+      "name": "花园影视",
+      "score": 5,
+      "cmsUrl": "http://api.zz22x.com/inc/qb.php",
+      "version": "2020.06.09",
+      "flags": [
+        {
+          "key": "qiyi",
+          "name": "奇艺资源",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "mgtv",
+          "name": "芒果资源",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "pptv",
+          "name": "PPTV资源",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "youku",
+          "name": "优酷资源",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "letv",
+          "name": "乐视资源",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "qq",
+          "name": "腾讯资源",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "sohu",
+          "name": "搜狐资源",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "acfun",
+          "name": "AcFun弹幕",
+          "type": "cloud",
+          "header": "http://jx.yparse.com/index.php?url\u003d"
+        },
+        {
+          "key": "bilibili",
+          "name": "哔哩哔哩",
+          "type": "cloud",
+          "header": "http://jx.yparse.com/index.php?url\u003d"
+        },
+        {
+          "key": "kankan",
+          "name": "响巢看看资源",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "funshion",
+          "name": "风行资源",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "wasu",
+          "name": "华数资源",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "cntv",
+          "name": "央视资源",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "tudou",
+          "name": "土豆资源",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "Q4",
+          "name": "Q4资源",
+          "type": "cloud",
+          "header": "https://j.zz22x.com/jx/?url\u003d"
+        },
+        {
+          "key": "Q6",
+          "name": "Q6资源",
+          "type": "cloud",
+          "header": "https://j.zz22x.com/jx/?url\u003d"
+        },
+        {
+          "key": "Q8",
+          "name": "Q6资源",
+          "type": "cloud",
+          "header": "https://j.zz22x.com/jx/?url\u003d"
+        }
+      ]
+    },
+    {
+      "key": "luoboziyuanwang",
+      "name": "萝卜资源网",
+      "score": 5,
+      "cmsUrl": "http://cj.luobo.gq/api.php/provide/vod/at/xml/",
+      "version": "2020.06.13",
+      "flags": [
+        {
+          "key": "qiyi",
+          "name": "奇艺",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "mgtv",
+          "name": "芒果",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "pptv",
+          "name": "PPTV",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "letv",
+          "name": "LETV",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "qq",
+          "name": "腾讯",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        },
+        {
+          "key": "sohu",
+          "name": "搜狐",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d\u003d"
+        },
+        {
+          "key": "youku",
+          "name": "优酷",
+          "type": "cloud",
+          "header": "https://jx.htv009.com/?url\u003d"
+        }
+      ]
+    },
+    {
+      "key": "okdownziyuanwang",
+      "name": "OK资源网 *迅雷下载",
+      "score": 5,
+      "cmsUrl": "https://cj.okzy.tv/inc/apidown_subname.php",
+      "version": "2020.06.09",
+      "flags": [
+        {
+          "key": "xunlei",
+          "name": "迅雷下载资源",
+          "type": "download"
+        }
+      ]
+    },
+    {
+      "key": "zuidadownziyuanwang",
+      "name": "最大资源网 *下载",
+      "score": 5,
+      "cmsUrl": "http://www.zdziyuan.com/inc/apidown.php",
+      "version": "2020.06.09",
+      "flags": [
+        {
+          "key": "xunlei",
+          "name": "迅雷下载资源",
+          "type": "download"
+        }
+      ]
+    },
+    {
+      "key": "tiankongziyuanwang",
+      "name": "天空资源网",
+      "score": 5,
+      "cmsUrl": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/",
+      "version": "2020.08.02",
+      "flags": [
+        {
+          "key": "tkm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "tkyun",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "88ziyuanwang",
+      "name": "88资源网",
+      "score": 3,
+      "cmsUrl": "http://www.88zyw.net/inc/api.php",
+      "version": "2020.08.02",
+      "flags": [
+        {
+          "key": "88zym3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "88zy",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    },
+    {
+      "key": "mangguoziyuanwang",
+      "name": "芒果资源网",
+      "score": 5,
+      "cmsUrl": "https://api.shijiapi.com/api.php/provide/vod/at/xml/",
+      "version": "2020.08.02",
+      "flags": [
+        {
+          "key": "mgm3u8",
+          "name": "在线播放",
+          "type": "play"
+        },
+        {
+          "key": "mgtv",
+          "name": "云播放",
+          "type": "cloud"
+        }
+      ]
+    }
+  ],
+  "list_jx": [
+    {
+      "name": "WD影视 - 推荐",
+      "key": "wydy8",
+      "score": 5,
+      "version": "2020.09.11",
+      "charset": "utf-8",
+      "needJump": false,
+      "searchSelector": {
+        "searchUrl": "http://www.wydy8.com/index.php?m\u003dvod-search\u0026wd\u003d#wd",
+        "linkHeader": "http://www.wydy8.com",
+        "linkSelector": "div.col-xs-2 \u003e a \u003e @attr[href]",
+        "listSelector": "body \u003e div.container \u003e div.result-item",
+        "coverSelector": "div.col-xs-2 \u003e a \u003e img \u003e @attr[src]",
+        "titleSelector": "div.col-xs-2 \u003e a \u003e img \u003e @attr[alt]",
+        "tagSelectors": [
+          {
+            "selector": "div.col-xs-2 \u003e a \u003e span \u003e @text",
+            "keyName": "信息"
+          }
+        ],
+        "coverModel": "none"
+      },
+      "detailSelector": {
+        "ruleCover": "img.img-thumbnail \u003e @attr[src]",
+        "ruleDesc": "#hidden-introduce \u003e @text",
+        "coverModel": "none",
+        "flagModels": [
+          {
+            "name": "在线观看1",
+            "type": "sniff",
+            "header": "http://www.wydy8.com",
+            "ruleList": "div.panel-body \u003e #0 \u003e a",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          },
+          {
+            "name": "在线观看2",
+            "type": "sniff",
+            "header": "http://www.wydy8.com",
+            "ruleList": "div.panel-body \u003e #1 \u003e a",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          }
+        ]
+      },
+      "sniffRules": [
+        "(ftn\\.qq\\.com|ftn_handler|^((?!url\u003d|vid\u003d).)*\\.m3u8|^((?!\\.php).)*\\.mp4)"
+      ]
+    },
+    {
+      "name": "Chock吧电影院",
+      "key": "chock8",
+      "score": 5,
+      "version": "2020.06.03",
+      "charset": "utf-8",
+      "searchSelector": {
+        "searchUrl": "https://www.chok8.com/vodsearch/#wd----------#pg---.html",
+        "linkHeader": "https://www.chok8.com",
+        "linkSelector": "div.thumb \u003e a \u003e @attr[href]",
+        "listSelector": "div.stui-pannel_bd.clearfix \u003e #0 \u003e ul \u003e li",
+        "coverSelector": "div.thumb \u003e a \u003e @attr[data-original]",
+        "titleSelector": "div.thumb \u003e a \u003e @attr[title]",
+        "tagSelectors": [
+          {
+            "selector": "div.detail \u003e p \u003e #2 \u003e span.hidden-xs \u003e @ownText",
+            "keyName": "年代"
+          }
+        ],
+        "coverModel": "none"
+      },
+      "detailSelector": {
+        "ruleCover": "img.lazyload \u003e @attr[data-original]",
+        "ruleDesc": "span.detail-sketch \u003e @text",
+        "coverModel": "none",
+        "flagModels": [
+          {
+            "name": "秒播",
+            "type": "sniff",
+            "header": "https://www.chok8.com",
+            "ruleList": "#down1-2 \u003e ul \u003e li",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          },
+          {
+            "name": "超级网盘",
+            "type": "sniff",
+            "header": "https://www.chok8.com",
+            "ruleList": "#down2-2 \u003e ul \u003e li",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          },
+          {
+            "name": "备用线路",
+            "type": "sniff",
+            "header": "https://www.chok8.com",
+            "ruleList": "#down3-2 \u003e ul \u003e li",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          }
+        ]
+      },
+      "sniffRules": [
+        "(ftn\\.qq\\.com|ftn_handler|^((?!url\u003d).)*\\.m3u8|^((?!\\.php).)*\\.mp4)"
+      ]
+    },
+    {
+      "name": "团长资源",
+      "key": "tuanzhangziyuan",
+      "score": 4,
+      "version": "2020.06.03",
+      "charset": "utf-8",
+      "needJump": true,
+      "jumpUrl": "https://tzfile.com",
+      "searchSelector": {
+        "searchUrl": "https://tzfile.com/page/#pg?s\u003d#wd",
+        "linkSelector": "a \u003e @attr[href]",
+        "listSelector": "div.bt_img.mi_ne_kd.search_list \u003e ul \u003e li",
+        "coverSelector": "a \u003e img \u003e @attr[data-original]",
+        "titleSelector": "a \u003e img \u003e @attr[alt]",
+        "tagSelectors": [
+          {
+            "selector": "div \u003e span.qb \u003e #0 \u003e @text",
+            "keyName": "信息"
+          }
+        ],
+        "coverModel": "none"
+      },
+      "detailSelector": {
+        "ruleCover": "div.dyimg.fl \u003e img \u003e @attr[src]",
+        "ruleDesc": "div.yp_context \u003e p \u003e @text",
+        "coverModel": "none",
+        "flagModels": [
+          {
+            "name": "在线观看",
+            "type": "sniff",
+            "ruleList": "div.paly_list_btn \u003e a",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          }
+        ]
+      },
+      "sniffRules": [
+        "(ftn\\.qq\\.com|ftn_handler|^((?!url\u003d).)*\\.m3u8|^((?!\\.php).)*\\.mp4)"
+      ]
+    },
+    {
+      "name": "南柯电影网",
+      "key": "nankedianyingwang",
+      "score": 5,
+      "version": "2020.06.03",
+      "charset": "utf-8",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+      "needJump": false,
+      "searchSelector": {
+        "searchUrl": "http://www.nkdyw.com/vodsearch-#wd-------------/",
+        "linkHeader": "http://www.nkdyw.com",
+        "linkSelector": "div.thumb \u003e a \u003e @attr[href]",
+        "listSelector": "#searchList \u003e li",
+        "coverSelector": "div.thumb \u003e a \u003e @attr[data-original]",
+        "titleSelector": "div.thumb \u003e a \u003e @attr[title]",
+        "tagSelectors": [
+          {
+            "selector": "div.thumb \u003e a \u003e span.pic-tag.pic-tag-top \u003e span \u003e @text",
+            "keyName": "信息"
+          }
+        ],
+        "coverModel": "none"
+      },
+      "detailSelector": {
+        "ruleCover": "div.myui-content__thumb \u003e a \u003e img \u003e @attr[data-original]",
+        "ruleDesc": "span.sketch.content \u003e @text",
+        "coverModel": "none",
+        "flagModels": [
+          {
+            "name": "秒播",
+            "type": "sniff",
+            "header": "http://www.nkdyw.com",
+            "ruleList": "#playlist2 \u003e ul \u003e li",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          },
+          {
+            "name": "云播",
+            "type": "sniff",
+            "header": "http://www.nkdyw.com",
+            "ruleList": "#playlist1 \u003e ul \u003e li",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          }
+        ]
+      },
+      "sniffRules": [
+        "(ftn\\.qq\\.com|ftn_handler|^((?!url\u003d).)*\\.m3u8|^((?!\\.php).)*\\.mp4)"
+      ]
+    },
+    {
+      "name": "在线之家",
+      "key": "zaixianzhijia",
+      "score": 5,
+      "version": "2020.06.03",
+      "charset": "utf-8",
+      "needJump": false,
+      "searchSelector": {
+        "searchUrl": "https://www.zxzj.me/vodsearch/#wd----------#pg---.html",
+        "linkHeader": "https://www.zxzj.me",
+        "linkSelector": "div \u003e div \u003e h4 \u003e a \u003e @attr[href]",
+        "listSelector": "div.stui-pannel__bd.clearfix \u003e ul \u003e li",
+        "coverSelector": "div \u003e a \u003e @attr[data-original]",
+        "titleSelector": "div \u003e a \u003e @attr[title]",
+        "tagSelectors": [
+          {
+            "selector": "div \u003e a \u003e span.pic-text.text-right \u003e @text",
+            "keyName": "信息"
+          }
+        ],
+        "coverModel": "none"
+      },
+      "detailSelector": {
+        "ruleCover": "img.lazyload \u003e @attr[data-original]",
+        "ruleDesc": "span.detail-content \u003e @text",
+        "coverModel": "none",
+        "flagModels": [
+          {
+            "name": "播放线路1",
+            "type": "sniff",
+            "header": "https://www.zxzj.me",
+            "ruleList": "ul.stui-content__playlist.clearfix \u003e #0 \u003e li",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          }
+        ]
+      },
+      "sniffRules": [
+        "ftn\\.qq\\.com",
+        "ftn_handler",
+        "^((?!url\u003d).)*\\.m3u8",
+        "^((?!\\.php).)*\\.mp4",
+        "http.*?yunpan\\.360\\.cn.*?sign.*",
+        "http.*?cloud189.*?\\\\.mp4"
+      ]
+    },
+    {
+      "name": "爱美剧②",
+      "key": "aimeijuwangye",
+      "score": 5,
+      "version": "2020.06.04",
+      "charset": "utf-8",
+      "needJump": false,
+      "searchSelector": {
+        "searchUrl": "https://www.meiju11.com/new/video/search/#wd.html",
+        "linkHeader": "https://www.meiju11.com",
+        "linkSelector": "a \u003e @attr[href]",
+        "listSelector": "ul.thumbnail-group.clearfix \u003e li",
+        "coverSelector": "a \u003e img \u003e @attr[data-original]",
+        "titleSelector": "a \u003e img \u003e @attr[alt]",
+        "tagSelectors": [
+          {
+            "selector": "a \u003e span \u003e @text",
+            "keyName": "状态"
+          }
+        ],
+        "coverModel": "none"
+      },
+      "detailSelector": {
+        "ruleCover": "div.detail-poster \u003e a \u003e img \u003e @attr[src]",
+        "ruleDesc": "div.detail-info \u003e ul \u003e li.intro.hidden-xs \u003e p \u003e @text",
+        "coverModel": "none",
+        "flagModels": [
+          {
+            "name": "百度云播①",
+            "type": "sniff",
+            "header": "https://www.meiju11.com",
+            "ruleList": "#detail-content \u003e ul \u003e li",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          },
+          {
+            "name": "百度云播②",
+            "type": "sniff",
+            "header": "https://www.meiju11.com",
+            "ruleList": "#detail-content \u003e ul \u003e #1 \u003e li",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          }
+        ]
+      },
+      "sniffRules": [
+        "^((?!url\u003d).)*\\/index.m3u8"
+      ]
+    },
+    {
+      "name": "两个BT",
+      "key": "lianggebt",
+      "score": 4,
+      "version": "2020.07.22",
+      "charset": "utf-8",
+      "needJump": false,
+      "searchSelector": {
+        "searchUrl": "https://www.bttwo.com/xssearch?q\u003d#wd\u0026f\u003d_all\u0026p\u003d#pg",
+        "linkSelector": "h3 \u003e a \u003e @attr[href]",
+        "listSelector": "div.bt_img.mi_ne_kd.search_list \u003e ul \u003e li",
+        "titleSelector": "h3 \u003e a \u003e @text",
+        "tagSelectors": [
+          {
+            "selector": "div.jidi \u003e @text",
+            "keyName": "剧集"
+          },
+          {
+            "selector": "p.nostag \u003e @text",
+            "keyName": "类型"
+          }
+        ],
+        "coverModel": "none"
+      },
+      "detailSelector": {
+        "ruleCover": "meta[property\u003dog:image] \u003e @attr[content]",
+        "ruleDesc": "meta[name\u003ddescription] \u003e @attr[content]",
+        "coverModel": "none",
+        "flagModels": [
+          {
+            "name": "在线播放",
+            "type": "cloud",
+            "ruleList": "div.paly_list_btn \u003e a",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TVB云播",
+      "key": "tvbyunbo",
+      "score": 5,
+      "version": "2020.07.22",
+      "charset": "utf-8",
+      "needJump": false,
+      "searchSelector": {
+        "searchUrl": "https://www.hktvyb.com/vod/search/page/#pg/wd/#wd.html",
+        "linkHeader": "https://www.hktvyb.com",
+        "linkSelector": "h4 \u003e a \u003e @attr[href]",
+        "listSelector": "ul.myui-vodlist__media.clearfix \u003e li.clearfix",
+        "titleSelector": "h4 \u003e a \u003e @text",
+        "tagSelectors": [
+          {
+            "selector": "p \u003e #0 \u003e @text",
+            "keyName": "类型"
+          }
+        ],
+        "coverModel": "none"
+      },
+      "detailSelector": {
+        "coverHeader": "https://www.hktvyb.com",
+        "ruleCover": "meta[property\u003dog:image] \u003e @attr[content]",
+        "ruleDesc": "#desc \u003e div \u003e div.myui-panel_bd \u003e div \u003e span.data \u003e @html",
+        "coverModel": "none",
+        "flagModels": [
+          {
+            "name": "云播线路",
+            "type": "cloud",
+            "header": "https://www.hktvyb.com",
+            "ruleList": "ul.myui-content__list.sort-list.clearfix \u003e a.btn.btn-default",
+            "rulePlayName": "a \u003e @text",
+            "rulePlayUrl": "a \u003e @attr[href]"
+          }
+        ]
+      }
+    }
+  ],
+  "list_rx": [
+    {
+      "name": "八戒资源网",
+      "key": "bajieziyuanwangrx",
+      "score": 5,
+      "version": "0.0.0",
+      "charset": "utf-8",
+      "needJump": false,
+      "searchSelector": {
+        "searchUrl": "http://www.bajiezy.cc/index.php?m\u003dvod-search-wd-#wd-pg-#pg",
+        "linkHeader": "http://www.bajiezy.cc",
+        "linkSelector": "\u003ctd class\u003d\"l\"\u003e\u003ca href\u003d\"(.*?)\"",
+        "listSelector": "\u003ctr class\u003d\"DianDian\"[\\s\\S]*?\u003c/tr\u003e",
+        "titleSelector": "\u003ctd class\u003d\"l\"\u003e.*?target\u003d\"_blank\"\u003e(.*?)\u003c/font\u003e",
+        "tagSelectors": [
+          {
+            "selector": "\u003ctd\u003e\u003ca href\u003d\".*?\" target\u003d\"_blank\"\u003e(.*?)\u003c/a\u003e\u003c/td\u003e",
+            "keyName": "类型"
+          },
+          {
+            "selector": "(\\d{4}-\\d{2}-\\d{2})",
+            "keyName": "日期"
+          }
+        ],
+        "coverModel": "none"
+      },
+      "detailSelector": {
+        "ruleCover": "\u003cdiv class\u003d\"videoPic\"\u003e.*?\u003cimg src\u003d\"(.*?)\"/\u003e.*?\u003c/div\u003e",
+        "ruleDesc": "\u003cdiv class\u003d\"contentNR\"\u003e([\\s\\S]*?)\u003c/div\u003e",
+        "coverModel": "none",
+        "flagModels": [
+          {
+            "name": "在线播放",
+            "type": "play",
+            "baseDataRule": "\u003c!--前bjm3u8--\u003e([\\s\\S]*?)\u003c!--后bjm3u8--\u003e",
+            "ruleList": "\u003cli\u003e\u003cinput.*?checked.*?\u003c/li\u003e",
+            "rulePlayName": "\u003cspan\u003e(.*?)\\$\u003c/span\u003e",
+            "rulePlayUrl": "\u003c/span\u003e(.*?)\u003c/li\u003e"
+          },
+          {
+            "name": "云播放",
+            "type": "cloud",
+            "baseDataRule": "\u003c!--前bjyun--\u003e([\\s\\S]*?)\u003c!--后bjyun--\u003e",
+            "ruleList": "\u003cli\u003e\u003cinput.*?checked.*?\u003c/li\u003e",
+            "rulePlayName": "\u003cspan\u003e(.*?)\\$\u003c/span\u003e",
+            "rulePlayUrl": "\u003c/span\u003e(.*?)\u003c/li\u003e"
+          }
+        ]
+      }
+    },
+    {
+      "name": "爱美剧",
+      "key": "aimeijujiekou",
+      "score": 5,
+      "version": "2020.06.04",
+      "charset": "utf-8",
+      "needJump": false,
+      "searchSelector": {
+        "searchUrl": "http://mjapp.mjomj.com/index.php/app/ios/vod/index?size\u003d20\u0026page\u003d#pg\u0026key\u003d#wd",
+        "linkHeader": "http://mjapp.mjomj.com/index.php/app/ios/vod/show?token\u003d\u0026id\u003d",
+        "linkSelector": "\"id\":\"(.*?)\"",
+        "listSelector": "\\{\"id\"[\\s\\S]*?\\}",
+        "titleSelector": "\"name\":\"([\\s\\S]*?)\"",
+        "tagSelectors": [
+          {
+            "selector": "\"type\":\"(.*?)\"",
+            "keyName": "类型"
+          },
+          {
+            "selector": "\"state\":\"(.*?)\"",
+            "keyName": "状态"
+          }
+        ],
+        "coverModel": "none"
+      },
+      "detailSelector": {
+        "ruleCover": "\"name\":\".*?\",\"pic\":\"(.*?)\"",
+        "ruleDesc": "\"text\":\"([\\s\\S]*?)\"",
+        "coverModel": "none",
+        "flagModels": [
+          {
+            "name": "在线播放",
+            "type": "play",
+            "urlReplace": "\\\\#null",
+            "baseDataRule": "\"ji\":\\[([\\s\\S]*?)\\]\\}\\]",
+            "ruleList": "\\{\"id.*?name.*?purl.*?\\}",
+            "rulePlayName": "name\":\"(.*?)\"",
+            "rulePlayUrl": "purl\":\"(.*?)\""
+          }
+        ]
+      }
+    }
+  ]
+}
