@@ -4,19 +4,19 @@
 #
 <1>http://tts.baidu.com/text2audio?lan=zh&ie=UTF-8&spd=7&text=<1><2><2><m>百度神马<m>
 #
-<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=10&lang=zh-CHS&from=translateweb&speaker=1<2><m>搜狗大叔<m>
+<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=1&lang=zh-CHS&from=translateweb&speaker=1<2><m>搜狗大叔<m>
 #
-<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=10&lang=zh-CHS&from=translateweb&speaker=2<2><m>搜狗小妮<m>
+<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=1&lang=zh-CHS&from=translateweb&speaker=2<2><m>搜狗小妮<m>
 #
-<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=10&lang=zh-CHS&from=translateweb&speaker=2<2><m>搜狗小妮<m>
+<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=1&lang=zh-CHS&from=translateweb&speaker=2<2><m>搜狗小妮<m>
 #
-<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=10&lang=zh-CHS&from=translateweb&speaker=3<2><m>搜狗阿姨<m>
+<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=1&lang=zh-CHS&from=translateweb&speaker=3<2><m>搜狗阿姨<m>
 #
-<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=10&lang=zh-CHS&from=translateweb&speaker=4<2><m>搜狗憨憨<m>
+<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=1&lang=zh-CHS&from=translateweb&speaker=4<2><m>搜狗憨憨<m>
 #
-<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=10&lang=zh-CHS&from=translateweb&speaker=5<2><m>搜狗大婶<m>
+<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=1&lang=zh-CHS&from=translateweb&speaker=5<2><m>搜狗大婶<m>
 #
-<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=10&lang=zh-CHS&from=translateweb&speaker=6<2><m>搜狗大妈<m>
+<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=1&lang=zh-CHS&from=translateweb&speaker=6<2><m>搜狗大妈<m>
 #
 <m>0<m><1>https://tts.baidu.com/text2audio?tex=<1><2>&per=4127&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=11&vol=5&aue=6&pit=3&_res_tag_=audio<2>
 
