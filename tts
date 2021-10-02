@@ -4,7 +4,7 @@
 #
 <1>http://tts.baidu.com/text2audio?lan=zh&ie=UTF-8&spd=7&text=<1><2><2><m>百度神马<m>
 #
-<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=10&lang=zh-CHS&from=translateweb&speaker=1<2><m>搜狗大叔<m>
+<1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=0.8&lang=zh-CHS&from=translateweb&speaker=1<2><m>搜狗大叔<m>
 #
 <1>https://fanyi.sogou.com/reventondc/synthesis?text=<1><2>&speed=0.8&lang=zh-CHS&from=translateweb&speaker=2<2><m>搜狗小妮<m>
 #
